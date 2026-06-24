@@ -23,7 +23,7 @@
     "@modelcontextprotocol/sdk": "^1.12.1",
     "dotenv": "^16.4.7",
     "express": "^5.1.0",
-    "ws": "^8.18.1"
+    "ws": "^8.21.0"
   },
   "devDependencies": {
     "@types/node": "^20.10.5",
