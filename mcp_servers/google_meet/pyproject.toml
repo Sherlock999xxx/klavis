@@ -5,7 +5,7 @@ description = "MCP server for Google Meet video conferencing"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
-    "mcp==1.11.0",
+    "mcp==1.28.1",
     "pydantic",
     "fastapi",
     "uvicorn[standard]",
