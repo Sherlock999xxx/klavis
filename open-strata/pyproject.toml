@@ -27,7 +27,7 @@ requires-python = ">=3.10"
 urls = { Homepage = "https://www.klavis.ai/", Repository = "https://github.com/Klavis-AI/klavis.git", Issues = "https://github.com/Klavis-AI/klavis/issues" }
 dependencies = [
     "bm25s>=0.2.14",
-    "mcp>=1.0.0",
+    "mcp>=1.27.2",
     "platformdirs>=4.4.0",
     "pystemmer>=3.0.0",
     "starlette>=0.37.0",
